@@ -1,4 +1,6 @@
 # Jevils_card
+https://raw.githubusercontent.com/megathek/images/refs/heads/main/jonklers.png?token=GHSAT0AAAAAADHAKD7TBBPONRGFP3UYYYQA2DNJ5TA
+
 A mod that adds 2 new jokers and a new challenge with some CHAOS!
 
 # jokers
